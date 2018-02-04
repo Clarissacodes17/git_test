@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B088-77A2
+
+ Directory of C:\Sites\git_test
+
+02/03/2018  07:50 PM    <DIR>          .
+02/03/2018  07:50 PM    <DIR>          ..
+02/03/2018  07:50 PM                 0 hello_world.txt
+02/03/2018  07:45 PM               339 README.md
+               2 File(s)            339 bytes
+               2 Dir(s)  869,443,420,160 bytes free
